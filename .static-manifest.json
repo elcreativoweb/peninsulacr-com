@@ -1,0 +1,19 @@
+{
+    "domain": "peninsulacr.com",
+    "base_url": "https:\/\/peninsulacr.com",
+    "pages": 170,
+    "assets": 270,
+    "total_files": 440,
+    "total_size_mb": 124.19,
+    "output_dir": "\/tmp\/static-export\/peninsulacr.com",
+    "pages_failed": [],
+    "assets_failed": [
+        "https:\/\/peninsulacr.com\/wp-content\/themes\/houzez\/fonts\/houzez-iconfont.eot?jd28ud",
+        "https:\/\/peninsulacr.com\/wp-content\/themes\/houzez\/fonts\/houzez-iconfont.eot?jd28ud#iefix",
+        "https:\/\/peninsulacr.com\/wp-content\/themes\/houzez\/fonts\/houzez-iconfont.eot?jd28ud",
+        "https:\/\/peninsulacr.com\/wp-content\/themes\/houzez\/fonts\/houzez-iconfont.eot?jd28ud#iefix",
+        "https:\/\/peninsulacr.com\/wp-content\/themes\/houzez\/fonts\/houzez-iconfont.eot?jd28ud",
+        "https:\/\/peninsulacr.com\/wp-content\/themes\/houzez\/fonts\/houzez-iconfont.eot?jd28ud#iefix"
+    ],
+    "generated_at": "2026-05-21 16:19:27"
+}
